@@ -21,7 +21,6 @@ os.system("clear")
 os.system("figlet CKS DDos")
 print
 print "Author   : Rh@King"
-Print "team co-CEO:RR@king"
 print "You Tube : https://www.youtube.com/Cyber.king.Squad"
 print "github   : https://github.com/Rh.king"
 print "Facebook : https://www.facebook.com/cyber king squad"
